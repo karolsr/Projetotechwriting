@@ -1,85 +1,59 @@
-# Title
+# Configure grupos de acesso no ValidaPres
 
-> If you need more information about how to fill in this template, read the accompanying [guide](./guide_tutorial.md).
->
-> This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.
+Neste tutotial, você entenderá como os grupos de acesso do ValidaPres podem ser ativados e desativados.
+## Visão geral
+Para garantir a integridade e a organização do processo de preservação digital, o sistema utiliza três perfis de usuário, cada um com funções específicas: 
 
-## Overview
+| Perfis de usuário                                                                                                                                  | Função                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Administrador                                                                                                         | Faz a gestão, manutenção da aplicação e de fluxos de trabalho. Além disso, gerencia registros de metadados, controla a atribuição de documentos e define as permissões de outros perfis de usuário.                                                                                       |
+| Cadastrador                                                                      | Responsável pela inserção de metadados arquivísticos no sistema.                                        |
+| Validador                                                                             | Tem o papel de revisor de metadados adicionados pelo cadastrador. Posteriormente, o usuário assina e encaminha os registros para a preservação digital.  
 
-In this tutorial, you'll learn how to {insert brief description of the main tutorial task}. This tutorial is intended for {audience}. It assumes you have basic knowledge of:
 
-* Concept 1
-* Concept 2
-* Concept 3...
+Você deverá realizar as seguintes etapas para ceder as permissões aos perfis cadastrados: 
 
-By the end of this tutorial, you'll be able to:
+* Passo 1: realize seu login em uma conta de administrador;
+* Passo 2: acesse a seção de grupos de acesso para ativar/desativar um grupo; 
 
-* Learning objective 1
-* Learning objective 2
-* Learning objective 3...
 
-## Background
+## Objetivos
 
-{This section is optional. Feel free to use some of the text below to help you get started.}
+## Antes de começar
 
-* {product} is a {product type} that you can use to {common use case}...
-* {product} provides many of the same features as {competitors}, but with {feature}, you can...
-* Using {feature} enables you to {pain point}...
+É necessário que a equipe de suporte do sistema tenha atribuído um perfil de usuário de administrador a você, caso não tenha, entre em contato através do suporte do  [Modelo Hipátia](https://hipatia.ibict.br/). 
 
-## Before you start
 
-{Use this section to tell users about any prerequisites needed before they start the tutorial, such as:
+## Passo 1: realizando seu login em uma conta de administrador
 
-* Expected prior knowledge.
-* Software or hardware to obtain.
-* Environments to set up and configure.
-* Access codes to obtain.
-}
+Para realizar o login em uma conta de administrador
 
-Before you start the tutorial, you should:
+1. Acesse a opção **login** localizada na barra superior do ValidaPres Dashboard; 
 
-* Prerequisite 1
-* Prerequisite 2
-* Prerequisite 3...
+2. Em seguida, escreva seu email institucional e a senha cadastrada; 
 
-## {Task name}
+3. Caso sua senha não esteja funcionando, clique na opção **esqueci minha senha**;
+   Esta opção enviará um email automático contendo os passos necessários para a criação de um novo email de acesso ao sistema. 
 
-To get started, {the first thing your user should do}.
 
-1. {Write the step here. Use a verb to start.}
+## Passo 2: acesse a seção de grupos de acesso para ativar/desativar um grupo
+Após o login você deverá acessar as opções contidas no menu lateral esquerdo do Dashboard: 
 
-    {Explanatory text}
+1. Clique em **gestão de capturas**; 
+A ação apresentará mais opções no menu; 
+2. Clique na opção **Grupos de acesso**;
+3. Pesquise o grupo de acesso que você deseja ativar/desativar, na barra de pesquisa na parte superior da página;
+4. No grupo escolhido, ative/desative através das **Ações**.
 
-    {Optional: Code sample or screenshot that helps your users complete this step}
+Nesse tutorial você aprendeu:
 
-    {Optional: Result}
+* Como acessar um perfil de administrador
+* Como ativar ou desativar um grupo de usuários
 
-2. {Write the step here. Use a verb to start.}
-  
-   a. {Substep 1}
+## Próximos passos
 
-   b. {Substep 1}
-
-## Summary
-
-{Use this section to summarize what the user learned in the tutorial.}
-
-In this tutorial, you learned how to:
-
-* Summary point 1
-* Summary point 2
-* Summary point 3..
-
-## Next steps
-
-{Use this section to share links to related tutorials, videos, or other documentation}.
-
-Consider completing some other common tasks using {feature}:
-
-* Task 1
-* Task 2
-* Task 3...
+* Como solicitar um perfil de usuário administrador
+* Atribuindo funções a usuários
 
 ---
 
-> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Tutorial%20guide) to give feedback on this template.
