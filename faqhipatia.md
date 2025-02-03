@@ -6,7 +6,7 @@ Atualmente o modelo propõe o uso das ferramentes ValidaPres, BaraPres, Archivem
 ## 3. Quais são os requisitos para o estabelecimento de parcerias? 
 Para se tornar um parceiro Hipátia, sua instituição deverá entrar em contato com a nossa equipe de negociações, explicando as características básicas de seu acervo arquivístico e suas carências nesse âmbito. Posteriormente, será agendada uma reunião para uma apresentação do modelo.
 ## 4. Como saber se o modelo Hipátia é adequado para minha instituição? 
-É necessário, primeiramente, avaliar as lacunas do acervo arquivpistico da sua instituição. Através das características do modelo é possível entender se o Hipátia é a solução adequada:  
+É necessário, primeiramente, avaliar as lacunas do acervo arquivístico da sua instituição. Através das características do modelo é possível entender se o Hipátia é a solução adequada:  
 * Possível de ser implementado em diferentes cenários institucionais;
 * Comporta diferentes sistemas produtores (SEI; DJE PJE; e-Proc; entre outros);
 * Adaptável a distintas configurações de software e hardware;
@@ -16,5 +16,5 @@ Para se tornar um parceiro Hipátia, sua instituição deverá entrar em contato
 * Atualizada frequentemente com inovações tecnológicas;
 * Implementada por meio de projeto de pesquisa;
 * Equipe qualificada e capacitada para implementação.
-## Pretendo iniciar um projeto de digitalização de acervo arquivístico, o Modelo Hipátia é aplicável neste contexto? 
+## 5. Pretendo iniciar um projeto de digitalização de acervo arquivístico, o Modelo Hipátia é aplicável neste contexto? 
 Sim! Através da implementação da solução ValidaPres, criada pelos pesquisadores da Equipe Hipátia, instituições podem implementar normas e padrões arquivísticos na digitalização de seus acervos, que seguirão toda a cadeia de custódia seguindo o mesmo padrão utilizado para documentos originalmente digitais.  
